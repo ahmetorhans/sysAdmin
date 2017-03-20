@@ -1,0 +1,4 @@
+# sysAdmin
+linux komutlarý
+
+#ls
