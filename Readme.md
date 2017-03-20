@@ -2,3 +2,5 @@
 linux komutlarý
 
 #ls
+
+#df
