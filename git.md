@@ -3,19 +3,19 @@
 
 
 
-```git checkout --orphan latest_branch```
+```git checkout --orphan latest_branch
 
 
-```git add -A```
+git add -A
 
 
-```git commit -am "commit message"```
+git commit -am "commit message"
 
 
-```git branch -D master```
+git branch -D master
 
 
-```git branch -m master```
+git branch -m master
 
 
-```git push -f origin master```
+git push -f origin master```
