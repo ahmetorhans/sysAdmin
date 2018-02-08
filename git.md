@@ -1,4 +1,4 @@
-##Git reset branch##
+# Git reset branch
 
 git checkout --orphan new-master master
 git commit -m ""
