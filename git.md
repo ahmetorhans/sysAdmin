@@ -1,11 +1,28 @@
 # Git reset branch
 
-```sh
+```
 
-git checkout --orphan new-master master
+Checkout
 
-git commit -m ""
+git checkout --orphan latest_branch
 
-git branch -M new-master master
+Add all the files
 
+git add -A
+
+Commit the changes
+
+git commit -am "commit message"
+
+Delete the branch
+
+git branch -D master
+
+Rename the current branch to master
+
+git branch -m master
+
+Finally, force update your repository
+
+git push -f origin master
 ```
