@@ -1,6 +1,6 @@
 # Git reset branch
 
-```
+```sh
 
 git checkout --orphan new-master master
 
