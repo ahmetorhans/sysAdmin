@@ -3,7 +3,8 @@
 
 
 
-```git checkout --orphan latest_branch
+```
+git checkout --orphan latest_branch
 
 
 git add -A
@@ -18,4 +19,5 @@ git branch -D master
 git branch -m master
 
 
-git push -f origin master```
+git push -f origin master
+```
